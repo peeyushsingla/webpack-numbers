@@ -5,7 +5,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/lodash": "^4.14.136",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "ts-loader": "^6.0.4",
     "typescript": "^3.5.3",
     "webpack": "^4.36.1",
